@@ -1,8 +1,8 @@
-// Declare and use variables 
+
 console.log("1. Create three variables");
-let StudentName = "Charlie"; // String value
-let StudentAge = 10; // Numeric value
-let isEnrolled = true; // Boolean value
+let StudentName = "Charlie"; 
+let StudentAge = 10; 
+let isEnrolled = true; 
 
 console.log(StudentName); 
 console.log(StudentAge); 
@@ -79,4 +79,5 @@ console.log("d && e = " + (d&&e));
 console.log("d || e = " + (d || e)); 
 // NOT (!)
 console.log("!d = " + (!d)); 
+
 console.log("!e = " + (!e)); 

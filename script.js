@@ -4,8 +4,8 @@ let studentName = 'Charlie';
 let studentAge = 10; 
 let isEnrolled = true; 
 
-console.log(StudentName); 
-console.log(StudentAge); 
+console.log(studentName); 
+console.log(studentAge); 
 console.log(isEnrolled); 
 
 
@@ -81,6 +81,7 @@ console.log("d || e = " + (d || e));
 console.log("!d = " + (!d)); 
 
 console.log("!e = " + (!e)); 
+
 
 
 

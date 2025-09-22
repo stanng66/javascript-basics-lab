@@ -1,6 +1,6 @@
 // Declare three variables:
 console.log("1. Create three variables");
-let StudentName = "Charlie"; 
+let StudentName = 'Charlie'; 
 let StudentAge = 10; 
 let isEnrolled = true; 
 
@@ -81,4 +81,5 @@ console.log("d || e = " + (d || e));
 console.log("!d = " + (!d)); 
 
 console.log("!e = " + (!e)); 
+
 
